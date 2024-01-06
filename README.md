@@ -1,4 +1,4 @@
-# FrontEndStore
+# Front-end Store
 Segundo-Proyecto-Curso-Desarrollo-Web
 <br>
 <br>
