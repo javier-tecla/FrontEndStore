@@ -1,4 +1,4 @@
 # FrontEndStore
 Segundo-Proyecto-Curso-Desarrollo-Web
 
-https://frondtendstorejaviertecla.netlify.app/index.html
+https://front-end-store-javier-tecla.netlify.app/
